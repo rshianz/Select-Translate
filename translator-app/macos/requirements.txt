@@ -1,0 +1,7 @@
+rumps
+pyobjc-framework-Cocoa
+pyobjc-framework-Quartz
+pynput
+pyperclip
+requests
+deep-translator
